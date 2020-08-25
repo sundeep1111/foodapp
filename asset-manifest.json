@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/foodapp/static/css/main.28f19dd9.chunk.css",
+    "main.js": "/foodapp/static/js/main.1a811946.chunk.js",
+    "main.js.map": "/foodapp/static/js/main.1a811946.chunk.js.map",
+    "runtime-main.js": "/foodapp/static/js/runtime-main.7ab1a8c0.js",
+    "runtime-main.js.map": "/foodapp/static/js/runtime-main.7ab1a8c0.js.map",
+    "static/js/2.9b93d48f.chunk.js": "/foodapp/static/js/2.9b93d48f.chunk.js",
+    "static/js/2.9b93d48f.chunk.js.map": "/foodapp/static/js/2.9b93d48f.chunk.js.map",
+    "index.html": "/foodapp/index.html",
+    "precache-manifest.03fba3a1b33a1bb3c54e2c513b78970a.js": "/foodapp/precache-manifest.03fba3a1b33a1bb3c54e2c513b78970a.js",
+    "service-worker.js": "/foodapp/service-worker.js",
+    "static/css/main.28f19dd9.chunk.css.map": "/foodapp/static/css/main.28f19dd9.chunk.css.map",
+    "static/js/2.9b93d48f.chunk.js.LICENSE.txt": "/foodapp/static/js/2.9b93d48f.chunk.js.LICENSE.txt",
+    "static/media/img-all-food.png": "/foodapp/static/media/img-all-food.f1cde2e5.png",
+    "static/media/img-arr-down.png": "/foodapp/static/media/img-arr-down.c6b335b6.png",
+    "static/media/img-arr-right.png": "/foodapp/static/media/img-arr-right.e7db60ef.png",
+    "static/media/img-arrow-right.png": "/foodapp/static/media/img-arrow-right.50e9c91d.png",
+    "static/media/img-asians.png": "/foodapp/static/media/img-asians.2c51666d.png",
+    "static/media/img-barbeque.png": "/foodapp/static/media/img-barbeque.486a7c55.png",
+    "static/media/img-burger.png": "/foodapp/static/media/img-burger.5e0c08cd.png",
+    "static/media/img-burgers.png": "/foodapp/static/media/img-burgers.115224dc.png",
+    "static/media/img-celeb.png": "/foodapp/static/media/img-celeb.01787237.png",
+    "static/media/img-clock.png": "/foodapp/static/media/img-clock.cb4ab163.png",
+    "static/media/img-dessert.png": "/foodapp/static/media/img-dessert.671a65a8.png",
+    "static/media/img-menu.png": "/foodapp/static/media/img-menu.97636784.png",
+    "static/media/img-pizza.png": "/foodapp/static/media/img-pizza.410e2484.png",
+    "static/media/img-search.png": "/foodapp/static/media/img-search.352b0441.png",
+    "static/media/img-smiley.png": "/foodapp/static/media/img-smiley.d81a4aca.png",
+    "static/media/img-star.png": "/foodapp/static/media/img-star.a4d24a70.png",
+    "static/media/img-sushi.png": "/foodapp/static/media/img-sushi.ec9a75df.png",
+    "static/media/img-thai.png": "/foodapp/static/media/img-thai.67188422.png",
+    "static/media/img-user.png": "/foodapp/static/media/img-user.7afe97e6.png",
+    "static/media/landing-illustration.png": "/foodapp/static/media/landing-illustration.e0d7608e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ab1a8c0.js",
+    "static/js/2.9b93d48f.chunk.js",
+    "static/css/main.28f19dd9.chunk.css",
+    "static/js/main.1a811946.chunk.js"
+  ]
+}
